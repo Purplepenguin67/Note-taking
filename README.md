@@ -20,43 +20,11 @@
     THEN I am presented with empty fields to enter a new note title and the note’s text in the right-hand column    
     
     
-    
-    
-
-    [Back to Table of Contents](#Table-of-Contents)
-    1.   I want a command-line application that accepts user input.
-    2.   I want a high-quality, professional README.md is generated with the title of my project and sections entitled Description, Table of Contents, Installation, Usage, License, Contributing, Tests, and Questions
-    3.   I want my project title to display as the title of the README.
-    4.   I want a description, installation instructions, usage information, contribution guidelines, and test instructions.
-    5.   I want to choose a license for my application from a list of options.
-    6.   I want to enter my GitHub username; this is added to the section of the README entitled Questions, with a link to my GitHub profile.
-    7.   I want to enter my email address; this is added to the section of the README entitled Questions, with instructions on how to reach me with additional questions.
-    8.   When I click on thetable of contents; then I am taken to the corresponding section of the README. 
-    
-    Contribution Guidelines
-    [Back to Table of Contents](#Table-of-Contents)
-    I WANT to be able to write and save notes
-    
-    
-    
-    Test Instructions
-    [Back to Table of Contents](#Table-of-Contents)
-    1.  none
-    2.  undefined
-    3.  undefined
-    
-    
-    Overview: Accomplishments
-     Workflow [Back to Table of Contents](#Table-of-Contents)
-    
-    
-    
    Screenshots
    ![note taking screenshot](https://user-images.githubusercontent.com/103548864/180112466-abc05fc0-e1c6-4f27-9353-efcd5a8403d5.png)#Table-of-Contents)
      Demo![script.js]()
     
-     Repository Goal Criterea
-     [Back to Table of Contents](#Table-of-Contents)
+  Github: 
     
     
     License
