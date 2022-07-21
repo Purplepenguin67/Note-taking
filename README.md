@@ -1,6 +1,7 @@
 # Note Taking
     
-    Git:   
+    Git:  https://purplepenguin67.github.io/Note-taking/    
+    
     User Story
     -AS A small business owner
     -I WANT to be able to write and save notes
