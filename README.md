@@ -1,6 +1,7 @@
 # Note Taking
     
-    Git:  https://purplepenguin67.github.io/Note-taking/    
+    Git:  https://purplepenguin67.github.io/Note-taking/
+    
     
     User Story
     -AS A small business owner
