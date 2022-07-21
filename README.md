@@ -1,6 +1,8 @@
 # Note Taking
     
     Git:  https://purplepenguin67.github.io/Note-taking/
+    Heroku: https://cryptic-bastion-29305.herokuapp.com/ 
+    
     
     User Story
     -AS A small business owner
