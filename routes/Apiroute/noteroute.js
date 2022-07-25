@@ -1,9 +1,9 @@
 
 
 const router = require('express').Router();
-
+const { v4: uuidv4 } = require('uuid');
 const  notes  = require('../../db/db');
-
+//import uuid from 'uuid/v4'
 const { createNewNote, deleteNote} = require('../../notefunctionality');
 
 
