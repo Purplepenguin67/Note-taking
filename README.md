@@ -9,6 +9,7 @@
     -I WANT to be able to write and save notes
     -SO THAT I can organize my thoughts and keep track of tasks I need to complete     
      
+     
     Acceptance Criteria
     WHEN I open the Note Taker
     THEN I am presented with a landing page with a link to a notes page
