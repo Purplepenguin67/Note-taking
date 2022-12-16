@@ -51,7 +51,7 @@
    
     Gitgub Link :  https://purplepenguin67.github.io/Note-taking/
     
-    Heroku Deployment: https://evening-meadow-10340.herokuapp.com/
+    Deployment: https://evening-meadow-10340.herokuapp.com/
     
 
 
