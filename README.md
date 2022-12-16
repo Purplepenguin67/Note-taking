@@ -1,16 +1,17 @@
-# Note Taking
+## Note Taking
     
-    Git:  https://purplepenguin67.github.io/Note-taking/
-    Heroku: https://evening-meadow-10340.herokuapp.com/
+    Gitgub Link :  https://purplepenguin67.github.io/Note-taking/
+    
+    Heroku Deployment: https://evening-meadow-10340.herokuapp.com/
     
     
-    User Story
+##User Story
     -AS A small business owner
     -I WANT to be able to write and save notes
     -SO THAT I can organize my thoughts and keep track of tasks I need to complete     
      
      
-    Acceptance Criteria
+##Acceptance Criteria
     WHEN I open the Note Taker
     THEN I am presented with a landing page with a link to a notes page
     WHEN I click on the link to the notes page
@@ -25,14 +26,14 @@
     THEN I am presented with empty fields to enter a new note title and the note’s text in the right-hand column    
     
     
-   Screenshots
+##Screenshots
    ![note taking screenshot](https://user-images.githubusercontent.com/103548864/180112466-abc05fc0-e1c6-4f27-9353-efcd5a8403d5.png)#Table-of-Contents)
      Demo![script.js]()
     
 
     
     
-    License
+##License
     MIT
     
     Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
