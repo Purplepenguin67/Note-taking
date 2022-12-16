@@ -39,8 +39,7 @@
 
 ## Screenshots
 
-![image](https://user-images.githubusercontent.com/103548864/208016133-c51fe4e6-acee-4e48-922d-fc1fb40cbd94.png)
-
+![note taking screenshot](https://user-images.githubusercontent.com/103548864/208016667-ab1e2d0e-03a8-4ee4-8009-bd90742af4a1.png)
 
 ## Author
 
