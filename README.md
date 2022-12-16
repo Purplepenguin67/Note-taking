@@ -39,8 +39,7 @@
 
 ## Screenshots
 
- ![note taking screenshot](https://user-images.githubusercontent.com/103548864/180112466-abc05fc0-e1c6-4f27-9353-efcd5a8403d5.png)#Table-of-Contents)
-     Demo![script.js]()
+
 
 
 
